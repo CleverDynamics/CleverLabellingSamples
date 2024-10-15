@@ -1,0 +1,45 @@
+{
+  "id": "e194b5bc-8128-42b0-9fbc-a557a3c7a8c4",
+  "name": "Clever Labelling Samples",
+  "publisher": "Clever Dynamics",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+			"id": "3d03e089-24a1-44f6-a564-95ab767db377",
+			"name": "Clever Config",
+			"publisher": "Clever Dynamics",
+			"version": "1.13.1.0"
+		},
+		{
+			"id": "936c3b3c-3d15-4e40-9ebb-f1dfa8498e70",
+			"name": "Clever Labelling",
+			"publisher": "Clever Dynamics",
+			"version": "1.0.0.0"
+		}
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
